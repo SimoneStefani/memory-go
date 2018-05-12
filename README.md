@@ -1,3 +1,3 @@
-# Memory Measurrments in Go
+# Memory Measurements in Go
 
 A small code snippet to evaluate different memory measurements on a running Go program.
